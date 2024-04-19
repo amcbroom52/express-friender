@@ -1,7 +1,7 @@
 {
-  "name": "rithmschool-start-js-express",
+  "name": "express-friender-api",
   "version": "1.0.0",
-  "homepage": "https://github.com/rithmschool/start/",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
